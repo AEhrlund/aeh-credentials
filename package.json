@@ -1,0 +1,19 @@
+{
+  "name": "credentials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test\\test.js"
+  },
+  "author": "Alf Ehrlund",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "expect": "^24.8.0"
+  },
+  "dependencies": {
+    "cryptr": "^4.0.2",
+    "password-prompt": "^1.1.2"
+  }
+}
