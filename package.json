@@ -9,11 +9,11 @@
   "author": "Alf Ehrlund",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^6.4.0",
+    "eslint": "^9.15.0",
     "expect": "^29.7.0"
   },
   "dependencies": {
     "cryptr": "^4.0.2",
-    "password-prompt": "^1.1.2"
+    "password-prompt": "^1.1.3"
   }
 }
